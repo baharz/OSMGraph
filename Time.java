@@ -1,3 +1,4 @@
+// Copyright 2016 Bahar Zarin
 package project;
 
 public class Time {
