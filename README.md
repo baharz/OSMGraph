@@ -7,4 +7,4 @@ The final model could get the real world data as an input and learns the relatio
 Having the roads network as a graph and finding the relations, the proposed model enables the user to estimate the travel time of any path between any two points in the network and get as many as needed shortest paths between those points. 
 Here, the Main.java is a user interface that ask the user to give the origin and destination and the time of day and the run results is the shortest path and its travel time.
 
-![alt text](OSMImages/GraphVisualization.png "Visualization of the graph")
+<div style="text-align:center"><img src ="OSMImages/GraphVisualization.png" /></div>
