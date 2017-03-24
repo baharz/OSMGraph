@@ -1,5 +1,9 @@
 # Modeling the City 
 This code is a demonstration on how to make a graph out of a city roads network (or any network) in which each edge has a cost associated with its travel time. This graph can be used to check connectivity of the network as well as estimating travel time for any path within the network.  
+\begin{center}
+ \includegraphics[width=300pt, height = 125 pt]{OSMImages/conceptual framework.png}
+\end{center}
+
 <div style="text-align:center"><img src ="OSMImages/conceptual framework.png=100x20" /></div>
 ## Graph
 Open Street Map (OSM) is used to extract the basic geographic data for any selected network of interest.
