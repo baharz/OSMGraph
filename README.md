@@ -4,7 +4,7 @@ This code is a demonstration on how to make a graph out of a city roads network 
  \includegraphics[width=300pt, height = 125 pt]{OSMImages/conceptual framework.png}
 \end{center}
 
-<div style="text-align:center"><img src ="OSMImages/conceptual framework.png" style="width: 200px;" /></div>
+<div style="text-align:center"><img src ="OSMImages/conceptual framework.png" style="width: 100px;" /></div>
 ## Graph
 Open Street Map (OSM) is used to extract the basic geographic data for any selected network of interest.
 The JGraphT is used to model this network by building a graph out of the roads network in which the streets are the edges and intersections are the nodes connecting the streets. JApplet is used for the visualization.
